@@ -13,5 +13,6 @@ There are many better documents readers out there. Each has there many unique fe
 
 ## Additional features
 In the future additional features will be added.
-    *reading pdf
-    *reading comics
+ 1. reading comics
+ 2. reading pdfs
+ 3. a settings tab to customize the look and feel of the app.
